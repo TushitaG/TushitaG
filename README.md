@@ -1,5 +1,5 @@
 Hi, I’m Tushita
-I'm a diploma graduate and undergraduate ttudent interested in Computer Science
+I'm a diploma graduate and undergraduate student interested in Computer Science
 
 
 <!---
