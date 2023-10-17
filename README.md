@@ -1,5 +1,5 @@
 Hi, I’m Tushita
-I'm a Diploma student interested in Machine Learning and Data Science
+I'm a diploma graduate and undergraduate ttudent interested in Computer Science
 
 
 <!---
